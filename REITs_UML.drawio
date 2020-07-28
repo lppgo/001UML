@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T05:50:53.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="7-Uq3AP16S6hK8uE-ufd" version="13.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-07-28T05:51:13.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="zmHBPUcpdIifpiyeOExO" version="13.5.3" type="github" pages="5">
   <diagram id="YtGcmlx5MdhKh6ri9F74" name="REITs交易组件图">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FY9xbVxMkNVW0x6ldh-i" name="交易顺序图">
-    <mxGraphModel dx="716" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="D05Wb8F2t81YfudN2o28-0" />
         <mxCell id="D05Wb8F2t81YfudN2o28-1" parent="D05Wb8F2t81YfudN2o28-0" />
@@ -667,7 +667,7 @@
         </mxCell>
         <mxCell id="BMFiHvQo9f3s-RPztHZM-0" value="" style="endArrow=classic;html=1;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="D05Wb8F2t81YfudN2o28-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="sourcePoint" />
             <mxPoint x="420" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
