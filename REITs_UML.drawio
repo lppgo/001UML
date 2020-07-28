@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T06:04:12.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="BquJ0-mmn1Je4vU5HI0Y" version="13.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-07-28T07:29:33.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="0D_9V9wyPcwTybV7bi4l" version="13.5.3" type="github" pages="6">
   <diagram id="YtGcmlx5MdhKh6ri9F74" name="REITs交易组件图">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FY9xbVxMkNVW0x6ldh-i" name="交易时序图">
-    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="D05Wb8F2t81YfudN2o28-0" />
         <mxCell id="D05Wb8F2t81YfudN2o28-1" parent="D05Wb8F2t81YfudN2o28-0" />
@@ -824,6 +824,14 @@
         <mxCell id="SDvASF8uKNV8ohtg_sZi-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;交易网关&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="D05Wb8F2t81YfudN2o28-1">
           <mxGeometry x="400" y="40" width="130" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aC8FgZUDFQvprZJkPxN_" name="第 6 页">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xH8khUnAr_cCxIXY6G8t-0" />
+        <mxCell id="xH8khUnAr_cCxIXY6G8t-1" parent="xH8khUnAr_cCxIXY6G8t-0" />
       </root>
     </mxGraphModel>
   </diagram>
