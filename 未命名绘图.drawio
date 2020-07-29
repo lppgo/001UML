@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T08:23:33.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="8AYQhZQxtvXJx0LGB12n" version="13.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-29T08:26:32.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="logKHqKyEs3Rx2C-BTlN" version="13.5.4" type="github" pages="2">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1438" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u5ApIbTFqXXYxqOQHgdF" name="第 2 页">
-    <mxGraphModel dx="3137" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3384" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Qp8LGx2am25BI7LuQ1px-0" />
         <mxCell id="Qp8LGx2am25BI7LuQ1px-1" parent="Qp8LGx2am25BI7LuQ1px-0" />
@@ -650,7 +650,7 @@
             <mxPoint x="-1110" y="-449.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7j2qKSmUK93hmbApJu_-5" value="网下询价请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="G7j2qKSmUK93hmbApJu_-4">
+        <mxCell id="G7j2qKSmUK93hmbApJu_-5" value="网下询价" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="G7j2qKSmUK93hmbApJu_-4">
           <mxGeometry x="-0.1371" relative="1" as="geometry">
             <mxPoint x="19.659999999999997" y="-14.98" as="offset" />
           </mxGeometry>
@@ -701,7 +701,7 @@
             <mxPoint x="-1120.34" y="-329.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7j2qKSmUK93hmbApJu_-19" value="查询询价报价情况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="G7j2qKSmUK93hmbApJu_-18">
+        <mxCell id="G7j2qKSmUK93hmbApJu_-19" value="查询询价报价" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="G7j2qKSmUK93hmbApJu_-18">
           <mxGeometry x="-0.1371" relative="1" as="geometry">
             <mxPoint x="173.82" y="-25.019999999999996" as="offset" />
           </mxGeometry>
