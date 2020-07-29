@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T09:28:45.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="MRMNdv-7bS3sQjtQy8m8" version="13.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-29T09:30:12.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="J8TKVaxfT7SJevuqFbAy" version="13.5.4" type="github" pages="2">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1438" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -860,8 +860,8 @@
             <mxPoint x="-314.9253731343283" y="-750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7j2qKSmUK93hmbApJu_-66" value="保存初步询价结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="Qp8LGx2am25BI7LuQ1px-1">
-          <mxGeometry x="-550.0035306512675" y="-330.0026680298438" as="geometry">
+        <mxCell id="G7j2qKSmUK93hmbApJu_-66" value="保存询价报价明细；初步询价结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="Qp8LGx2am25BI7LuQ1px-1">
+          <mxGeometry x="-510.0035306512675" y="-330.0026680298438" as="geometry">
             <mxPoint x="-14" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
