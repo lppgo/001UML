@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T08:03:24.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7GOXEKFnzD36NZCIQX29" version="13.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-07T08:07:42.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0Juzu5sSHfG9Sk_jmXa3" version="13.6.0" type="github" pages="6">
   <diagram id="YtGcmlx5MdhKh6ri9F74" name="REITs交易组件图">
-    <mxGraphModel dx="3076" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6FFCC" math="0" shadow="0">
+    <mxGraphModel dx="5717" dy="3249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6FFCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;gradientDirection=south;" vertex="1" parent="1">
+        <mxCell id="VK5EltDKN6l3TrfOhJUf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientDirection=south;glass=1;strokeColor=#6c8ebf;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-1140" y="-6" width="2590" height="1686" as="geometry" />
+        </mxCell>
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;gradientDirection=south;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-230" y="800" width="410" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qfqtDnRgR9i1htIjxdiv-73" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1320" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-91" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-720" y="800" width="380" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="VK5EltDKN6l3TrfOhJUf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;gradientColor=#ffffff;gradientDirection=south;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="2380" y="-190" width="829.5" height="590" as="geometry" />
         </mxCell>
         <mxCell id="oyumovBON1_XlfnT9GuX-1" value="&lt;font style=&quot;font-size: 36px&quot; color=&quot;#ff8000&quot;&gt;&lt;b&gt;REITs交易组件设计图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;dashPattern=1 2;sketch=0;fontColor=#5C5C5C;" parent="1" vertex="1">
           <mxGeometry x="229" y="20" width="370" height="30" as="geometry" />
@@ -262,13 +262,13 @@
         <mxCell id="qfqtDnRgR9i1htIjxdiv-26" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;交易网关&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#9673a6;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="450" y="800" width="870" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qfqtDnRgR9i1htIjxdiv-32" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff9933&quot;&gt;业管平台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="770" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-33" value="&lt;font style=&quot;font-size: 24px&quot;&gt;互联网交易平台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-33" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff9933&quot;&gt;互联网交易平台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="760" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfqtDnRgR9i1htIjxdiv-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;web端&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#F8CECC;" vertex="1" parent="1">
@@ -362,10 +362,10 @@
         <mxCell id="qfqtDnRgR9i1htIjxdiv-70" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="1320" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-71" value="&lt;font style=&quot;font-size: 24px&quot;&gt;业务中心&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-71" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff9933&quot;&gt;业务中心&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940.0000000000002" y="1330" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-72" value="&lt;font style=&quot;font-size: 24px&quot;&gt;数据中台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-72" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff9933&quot;&gt;数据中台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520.0000000000002" y="1330" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfqtDnRgR9i1htIjxdiv-90" value="" style="endArrow=classic;html=1;entryX=0.491;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qfqtDnRgR9i1htIjxdiv-7" target="qfqtDnRgR9i1htIjxdiv-16">
@@ -384,7 +384,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qfqtDnRgR9i1htIjxdiv-96" value="&lt;font style=&quot;font-size: 24px&quot;&gt;核心交易&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qfqtDnRgR9i1htIjxdiv-96" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff9933&quot;&gt;核心交易&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="760" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfqtDnRgR9i1htIjxdiv-97" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;竞价场务端&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
