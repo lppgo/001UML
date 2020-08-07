@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T08:21:12.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7X486WiGdeb61czIaNOC" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T09:42:03.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="5BExTxg4lhx9Y3xrmY99" version="13.6.0" type="github" pages="2">
   <diagram id="u5ApIbTFqXXYxqOQHgdF" name="第 2 页">
-    <mxGraphModel dx="6036" dy="4158" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6996" dy="4426" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Qp8LGx2am25BI7LuQ1px-0" />
         <mxCell id="Qp8LGx2am25BI7LuQ1px-1" parent="Qp8LGx2am25BI7LuQ1px-0" />
@@ -721,6 +721,14 @@
         <mxCell id="m6hWaUQ9fFUowQkMyECI-60" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;上报公募REITs申请材料，公告文件等(REST/FTP)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;fontSize=22;" parent="Qp8LGx2am25BI7LuQ1px-1" vertex="1">
           <mxGeometry x="-1155" y="-955" width="500" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-4fh-NN-f4B1V3dklwiF" name="第 3 页">
+    <mxGraphModel dx="1806" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="AS3obacXV_id6x3gLpP_-0" />
+        <mxCell id="AS3obacXV_id6x3gLpP_-1" parent="AS3obacXV_id6x3gLpP_-0" />
       </root>
     </mxGraphModel>
   </diagram>
